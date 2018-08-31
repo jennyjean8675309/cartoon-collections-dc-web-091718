@@ -27,5 +27,6 @@ def find_the_cheese(foods)
       foods.find
     else 
       nil
+    end
   end
 end
